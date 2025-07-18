@@ -37,4 +37,4 @@
 
 ## 🗂️ Diagrama de la estructura del Proyecto
 
-![Diagrama de la estructura del Proyecto](/img/clime.png)
+![Diagrama de la estructura del Proyecto](https://github.com/TakizawaXD/WeatherMaster/blob/main/WeatherMaster/img/clime.png)
