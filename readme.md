@@ -32,6 +32,7 @@
 | Contenedores      | Docker + Compose |
 | Despliegue Cloud  | AWS (EC2/Elastic Beanstalk) |
 | Comunicación API  | REST + JSON    |
+| Frontend  | HTML + JS + CSS    |
 
 ---
 
