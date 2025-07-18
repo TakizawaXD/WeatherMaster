@@ -32,45 +32,12 @@
 | Contenedores      | Docker + Compose |
 | Despliegue Cloud  | AWS (EC2/Elastic Beanstalk) |
 | Comunicación API  | REST + JSON    |
+| Desarrollo frontend | HTML + CSS + JS |
+
+
 
 ---
 
 ## 🗂️ Diagrama de la estructura del Proyecto
 
 ![Diagrama de la estructura del Proyecto](/img/clime.png)
-
----
-
-## 🚀 Instrucciones de Configuración
-
-1. **Clonar el repositorio:**
-   ```
-   git clone <URL del repositorio>
-   cd WeatherMaster
-   ```
-
-2. **Configurar el entorno:**
-   - Renombrar `.env.example` a `.env` y completar las variables necesarias.
-
-3. **Instalar dependencias:**
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. **Construir y ejecutar los contenedores:**
-   ```
-   docker-compose up --build
-   ```
-
-5. **Acceder a la API:**
-   - La API estará disponible en `http://localhost:8000`.
-
----
-
-## 📄 Documentación de la API
-
-- **Obtener clima actual:** `GET /weather/current`
-- **Obtener pronóstico:** `GET /weather/forecast`
-- **Consultar por ciudad:** `GET /weather/city/{city_name}`
-
-Para más detalles, consulte la documentación de la API en la ruta `/docs`.
